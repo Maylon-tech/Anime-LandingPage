@@ -1,1 +1,6 @@
-# Anime-LandingPage
+## Anime-LandingPage
+
+# Skills
+* HTML
+* CSS
+* Javascript
